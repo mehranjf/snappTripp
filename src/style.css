@@ -1,0 +1,21 @@
+body {
+    padding: 50px 200px;
+    text-align: center;
+    background-color:  #111623;
+    color: #eee;
+}
+
+button {
+
+    border: none;
+    width: 150px;
+    height: 45px;
+    color: #fff;
+    background: #0bbc64;
+    padding: 15px;
+    font-size: 15px;
+    margin: 15px;
+    border-radius: 4px;
+    cursor: pointer;
+
+}
